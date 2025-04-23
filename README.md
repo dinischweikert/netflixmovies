@@ -7,7 +7,6 @@ Perform exploratory data analysis on the netflix_data.csv data to understand mor
 
  * A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s and save this integer as short_movie_count.
 
-
 The data: netflix_data.csv
  * show_id:	The ID of the show
  * type:	Type of show
